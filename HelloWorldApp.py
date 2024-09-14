@@ -20,5 +20,4 @@ my_brand('Too Setup')
 # Print Hello World!
 print("Hello World!\n")
 
-# Use the function again after printing Hello, World!
 my_brand('Hello World Example')
